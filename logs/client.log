@@ -1,0 +1,788 @@
+--------------------------------------------------
+Thu Sep 27 10:48:13 IST 2018 INFO
+Issuing: prepare
+
+Thu Sep 27 10:48:17 IST 2018 INFO
+A configuration file was found: D:\Tasks\ASoC Plugin Testing\Animation Sample\VB\.scans\GDIAnimation_18-09-27_10-41-10\appscan-config.xml
+
+Thu Sep 27 10:48:17 IST 2018 INFO
+Processing configuration file...
+
+Thu Sep 27 10:48:17 IST 2018 INFO
+Scan created.
+
+Thu Sep 27 10:48:17 IST 2018 INFO
+Preparing the IRX file from VisualStudio using SAClientUtil version 6.0.1255 on Windows 10
+
+Thu Sep 27 10:48:17 IST 2018 INFO
+Discovering targets...
+
+Thu Sep 27 10:48:18 IST 2018 INFO
+Target added: GdiAnimation.exe
+
+Thu Sep 27 10:48:18 IST 2018 INFO
+Scan saved.
+
+Thu Sep 27 10:48:18 IST 2018 INFO
+Validating...
+
+Thu Sep 27 10:48:18 IST 2018 INFO
+No problems found during validation.
+
+Thu Sep 27 10:48:18 IST 2018 INFO
+Generating IRX file...
+
+Thu Sep 27 10:48:20 IST 2018 INFO
+Processing target GdiAnimation (1 of 1)
+
+Thu Sep 27 10:48:23 IST 2018 INFO
+Performing Framework Analysis for setting 'frameworksCLI'...
+
+Thu Sep 27 10:48:41 IST 2018 INFO
+Completed Framework Analysis
+
+Thu Sep 27 10:48:41 IST 2018 INFO
+Processing file GdiAnimation.exe (1 of 1)
+
+Thu Sep 27 10:48:46 IST 2018 INFO
+Writing the internal artifact...
+
+Thu Sep 27 10:48:47 IST 2018 INFO
+Completed writing the internal artifact
+
+Thu Sep 27 10:48:52 IST 2018 INFO
+Static Analyzer engine return code = 0.
+
+--------------------------------------------------
+Thu Sep 27 10:51:12 IST 2018 INFO
+Issuing: prepare
+
+Thu Sep 27 10:51:15 IST 2018 INFO
+A configuration file was found: C:\Users\parimal.s\eclipse-workspace\.metadata\.plugins\com.ibm.appscan.eclipse.plugin\.scans\simpleIOT_18-09-27_10-50-58\appscan-config.xml
+
+Thu Sep 27 10:51:15 IST 2018 INFO
+Processing configuration file...
+
+Thu Sep 27 10:51:15 IST 2018 INFO
+Scan created.
+
+Thu Sep 27 10:51:15 IST 2018 INFO
+Preparing the IRX file from Eclipse using SAClientUtil version 6.0.1255 on Windows 10
+
+Thu Sep 27 10:51:15 IST 2018 INFO
+Discovering targets...
+
+Thu Sep 27 10:51:15 IST 2018 WARNING
+NOTE:  The directory C:\Users\parimal.s\Downloads\SimpleIoT_Eclipse\simpleIOT\bin\SimpleIOT_staging was identified as an IntelliJ project, but no intellij.properties file was found.  To generate an IRX file for an IntelliJ project, install the IntelliJ plugin into your IDE and create <install>/config/intellij.properties with the following contents: 
+intellij=<path to IntelliJ executable> 
+The project directory was treated as a directory of lose files.
+
+
+Thu Sep 27 10:51:15 IST 2018 INFO
+Target added: bin
+
+Thu Sep 27 10:51:15 IST 2018 INFO
+Scan saved.
+
+Thu Sep 27 10:51:15 IST 2018 INFO
+Validating...
+
+Thu Sep 27 10:51:16 IST 2018 INFO
+No problems found during validation.
+
+Thu Sep 27 10:51:16 IST 2018 INFO
+Generating IRX file...
+
+Thu Sep 27 10:51:16 IST 2018 INFO
+Processing target bin (1 of 1)
+
+Thu Sep 27 10:51:16 IST 2018 INFO
+Performing Framework Analysis for setting 'frameworksCLI'...
+
+Thu Sep 27 10:51:20 IST 2018 INFO
+Completed Framework Analysis
+
+Thu Sep 27 10:51:20 IST 2018 INFO
+Processing file TestCase_IOT_Array.class (1 of 56)
+
+Thu Sep 27 10:51:20 IST 2018 INFO
+Processing file TestCase_IOT_Branching.class (2 of 56)
+
+Thu Sep 27 10:51:20 IST 2018 INFO
+Processing file TestCase_IOT_Instance.class (3 of 56)
+
+Thu Sep 27 10:51:20 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Assigns.class (4 of 56)
+
+Thu Sep 27 10:51:20 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Confidence.class (5 of 56)
+
+Thu Sep 27 10:51:20 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Encode.class (6 of 56)
+
+Thu Sep 27 10:51:20 IST 2018 INFO
+Processing file TestCase_IOT_List.class (7 of 56)
+
+Thu Sep 27 10:51:20 IST 2018 INFO
+Processing file TestCase_IOT_Looping.class (8 of 56)
+
+Thu Sep 27 10:51:20 IST 2018 INFO
+Processing file TestCase_IOT_Lost_Instance.class (9 of 56)
+
+Thu Sep 27 10:51:20 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint$TaintedStruct.class (10 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint.class (11 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part1.class (12 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part2.class (13 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_MediumCallStack.class (14 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint$TaintedStruct.class (15 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint.class (16 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam$TaintedStruct.class (17 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam.class (18 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_OverlapTrace.class (19 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_Recursion.class (20 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_Simple_Validation.class (21 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_Static.class (22 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_Static_Assigns.class (23 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation.class (24 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation2.class (25 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part1.class (26 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part2.class (27 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Val_Part1.class (28 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_Array.class (29 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_Branching.class (30 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_Instance.class (31 of 56)
+
+Thu Sep 27 10:51:21 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Assigns.class (32 of 56)
+
+Thu Sep 27 10:51:22 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Confidence.class (33 of 56)
+
+Thu Sep 27 10:51:22 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Encode.class (34 of 56)
+
+Thu Sep 27 10:51:22 IST 2018 INFO
+Processing file TestCase_IOT_List.class (35 of 56)
+
+Thu Sep 27 10:51:22 IST 2018 INFO
+Processing file TestCase_IOT_Looping.class (36 of 56)
+
+Thu Sep 27 10:51:22 IST 2018 INFO
+Processing file TestCase_IOT_Lost_Instance.class (37 of 56)
+
+Thu Sep 27 10:51:22 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint$TaintedStruct.class (38 of 56)
+
+Thu Sep 27 10:51:22 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint.class (39 of 56)
+
+Thu Sep 27 10:51:22 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part1.class (40 of 56)
+
+Thu Sep 27 10:51:22 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part2.class (41 of 56)
+
+Thu Sep 27 10:51:22 IST 2018 INFO
+Processing file TestCase_IOT_MediumCallStack.class (42 of 56)
+
+Thu Sep 27 10:51:22 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint$TaintedStruct.class (43 of 56)
+
+Thu Sep 27 10:51:22 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint.class (44 of 56)
+
+Thu Sep 27 10:51:23 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam$TaintedStruct.class (45 of 56)
+
+Thu Sep 27 10:51:23 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam.class (46 of 56)
+
+Thu Sep 27 10:51:23 IST 2018 INFO
+Processing file TestCase_IOT_OverlapTrace.class (47 of 56)
+
+Thu Sep 27 10:51:23 IST 2018 INFO
+Processing file TestCase_IOT_Recursion.class (48 of 56)
+
+Thu Sep 27 10:51:23 IST 2018 INFO
+Processing file TestCase_IOT_Simple_Validation.class (49 of 56)
+
+Thu Sep 27 10:51:23 IST 2018 INFO
+Processing file TestCase_IOT_Static.class (50 of 56)
+
+Thu Sep 27 10:51:23 IST 2018 INFO
+Processing file TestCase_IOT_Static_Assigns.class (51 of 56)
+
+Thu Sep 27 10:51:23 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation.class (52 of 56)
+
+Thu Sep 27 10:51:23 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation2.class (53 of 56)
+
+Thu Sep 27 10:51:23 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part1.class (54 of 56)
+
+Thu Sep 27 10:51:23 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part2.class (55 of 56)
+
+Thu Sep 27 10:51:23 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Val_Part1.class (56 of 56)
+
+Thu Sep 27 10:51:23 IST 2018 INFO
+Writing the internal artifact...
+
+Thu Sep 27 10:51:24 IST 2018 INFO
+Completed writing the internal artifact
+
+Thu Sep 27 10:51:27 IST 2018 INFO
+Static Analyzer engine return code = 0.
+
+--------------------------------------------------
+Thu Sep 27 11:28:44 IST 2018 INFO
+Issuing: prepare
+
+Thu Sep 27 11:28:47 IST 2018 INFO
+A configuration file was found: D:\Tasks\ASoC Plugin Testing\Animation Sample\VB\.scans\GDIAnimation_18-09-27_11-28-20\appscan-config.xml
+
+Thu Sep 27 11:28:47 IST 2018 INFO
+Processing configuration file...
+
+Thu Sep 27 11:28:47 IST 2018 INFO
+Scan created.
+
+Thu Sep 27 11:28:47 IST 2018 INFO
+Preparing the IRX file from VisualStudio using SAClientUtil version 6.0.1255 on Windows 10
+
+Thu Sep 27 11:28:47 IST 2018 INFO
+Discovering targets...
+
+Thu Sep 27 11:28:48 IST 2018 INFO
+Target added: GdiAnimation.exe
+
+Thu Sep 27 11:28:48 IST 2018 INFO
+Scan saved.
+
+Thu Sep 27 11:28:48 IST 2018 INFO
+Validating...
+
+Thu Sep 27 11:28:48 IST 2018 INFO
+No problems found during validation.
+
+Thu Sep 27 11:28:48 IST 2018 INFO
+Generating IRX file...
+
+Thu Sep 27 11:28:48 IST 2018 INFO
+Processing target GdiAnimation (1 of 1)
+
+Thu Sep 27 11:28:48 IST 2018 INFO
+Performing Framework Analysis for setting 'frameworksCLI'...
+
+Thu Sep 27 11:28:57 IST 2018 INFO
+Completed Framework Analysis
+
+Thu Sep 27 11:28:57 IST 2018 INFO
+Processing file GdiAnimation.exe (1 of 1)
+
+Thu Sep 27 11:29:00 IST 2018 INFO
+Writing the internal artifact...
+
+Thu Sep 27 11:29:00 IST 2018 INFO
+Completed writing the internal artifact
+
+Thu Sep 27 11:29:09 IST 2018 INFO
+Static Analyzer engine return code = 0.
+
+--------------------------------------------------
+Thu Sep 27 11:34:36 IST 2018 INFO
+Issuing: prepare
+
+Thu Sep 27 11:34:39 IST 2018 INFO
+A configuration file was found: C:\Users\parimal.s\eclipse-workspace\.metadata\.plugins\com.ibm.appscan.eclipse.plugin\.scans\simpleIOT_18-09-27_11-33-29\appscan-config.xml
+
+Thu Sep 27 11:34:39 IST 2018 INFO
+Processing configuration file...
+
+Thu Sep 27 11:34:39 IST 2018 INFO
+Scan created.
+
+Thu Sep 27 11:34:39 IST 2018 INFO
+Preparing the IRX file from Eclipse using SAClientUtil version 6.0.1255 on Windows 10
+
+Thu Sep 27 11:34:39 IST 2018 INFO
+Discovering targets...
+
+Thu Sep 27 11:34:40 IST 2018 WARNING
+NOTE:  The directory C:\Users\parimal.s\Downloads\SimpleIoT_Eclipse\simpleIOT\bin\SimpleIOT_staging was identified as an IntelliJ project, but no intellij.properties file was found.  To generate an IRX file for an IntelliJ project, install the IntelliJ plugin into your IDE and create <install>/config/intellij.properties with the following contents: 
+intellij=<path to IntelliJ executable> 
+The project directory was treated as a directory of lose files.
+
+
+Thu Sep 27 11:34:40 IST 2018 INFO
+Target added: bin
+
+Thu Sep 27 11:34:40 IST 2018 INFO
+Scan saved.
+
+Thu Sep 27 11:34:40 IST 2018 INFO
+Validating...
+
+Thu Sep 27 11:34:41 IST 2018 INFO
+No problems found during validation.
+
+Thu Sep 27 11:34:41 IST 2018 INFO
+Generating IRX file...
+
+Thu Sep 27 11:34:41 IST 2018 INFO
+Processing target bin (1 of 1)
+
+Thu Sep 27 11:34:41 IST 2018 INFO
+Performing Framework Analysis for setting 'frameworksCLI'...
+
+Thu Sep 27 11:34:45 IST 2018 INFO
+Completed Framework Analysis
+
+Thu Sep 27 11:34:45 IST 2018 INFO
+Processing file TestCase_IOT_Array.class (1 of 56)
+
+Thu Sep 27 11:34:45 IST 2018 INFO
+Processing file TestCase_IOT_Branching.class (2 of 56)
+
+Thu Sep 27 11:34:45 IST 2018 INFO
+Processing file TestCase_IOT_Instance.class (3 of 56)
+
+Thu Sep 27 11:34:45 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Assigns.class (4 of 56)
+
+Thu Sep 27 11:34:45 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Confidence.class (5 of 56)
+
+Thu Sep 27 11:34:45 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Encode.class (6 of 56)
+
+Thu Sep 27 11:34:45 IST 2018 INFO
+Processing file TestCase_IOT_List.class (7 of 56)
+
+Thu Sep 27 11:34:45 IST 2018 INFO
+Processing file TestCase_IOT_Looping.class (8 of 56)
+
+Thu Sep 27 11:34:45 IST 2018 INFO
+Processing file TestCase_IOT_Lost_Instance.class (9 of 56)
+
+Thu Sep 27 11:34:45 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint$TaintedStruct.class (10 of 56)
+
+Thu Sep 27 11:34:45 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint.class (11 of 56)
+
+Thu Sep 27 11:34:45 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part1.class (12 of 56)
+
+Thu Sep 27 11:34:45 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part2.class (13 of 56)
+
+Thu Sep 27 11:34:45 IST 2018 INFO
+Processing file TestCase_IOT_MediumCallStack.class (14 of 56)
+
+Thu Sep 27 11:34:45 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint$TaintedStruct.class (15 of 56)
+
+Thu Sep 27 11:34:46 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint.class (16 of 56)
+
+Thu Sep 27 11:34:46 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam$TaintedStruct.class (17 of 56)
+
+Thu Sep 27 11:34:46 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam.class (18 of 56)
+
+Thu Sep 27 11:34:46 IST 2018 INFO
+Processing file TestCase_IOT_OverlapTrace.class (19 of 56)
+
+Thu Sep 27 11:34:46 IST 2018 INFO
+Processing file TestCase_IOT_Recursion.class (20 of 56)
+
+Thu Sep 27 11:34:46 IST 2018 INFO
+Processing file TestCase_IOT_Simple_Validation.class (21 of 56)
+
+Thu Sep 27 11:34:46 IST 2018 INFO
+Processing file TestCase_IOT_Static.class (22 of 56)
+
+Thu Sep 27 11:34:46 IST 2018 INFO
+Processing file TestCase_IOT_Static_Assigns.class (23 of 56)
+
+Thu Sep 27 11:34:46 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation.class (24 of 56)
+
+Thu Sep 27 11:34:46 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation2.class (25 of 56)
+
+Thu Sep 27 11:34:46 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part1.class (26 of 56)
+
+Thu Sep 27 11:34:46 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part2.class (27 of 56)
+
+Thu Sep 27 11:34:46 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Val_Part1.class (28 of 56)
+
+Thu Sep 27 11:34:46 IST 2018 INFO
+Processing file TestCase_IOT_Array.class (29 of 56)
+
+Thu Sep 27 11:34:46 IST 2018 INFO
+Processing file TestCase_IOT_Branching.class (30 of 56)
+
+Thu Sep 27 11:34:46 IST 2018 INFO
+Processing file TestCase_IOT_Instance.class (31 of 56)
+
+Thu Sep 27 11:34:46 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Assigns.class (32 of 56)
+
+Thu Sep 27 11:34:46 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Confidence.class (33 of 56)
+
+Thu Sep 27 11:34:47 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Encode.class (34 of 56)
+
+Thu Sep 27 11:34:47 IST 2018 INFO
+Processing file TestCase_IOT_List.class (35 of 56)
+
+Thu Sep 27 11:34:47 IST 2018 INFO
+Processing file TestCase_IOT_Looping.class (36 of 56)
+
+Thu Sep 27 11:34:47 IST 2018 INFO
+Processing file TestCase_IOT_Lost_Instance.class (37 of 56)
+
+Thu Sep 27 11:34:47 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint$TaintedStruct.class (38 of 56)
+
+Thu Sep 27 11:34:47 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint.class (39 of 56)
+
+Thu Sep 27 11:34:47 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part1.class (40 of 56)
+
+Thu Sep 27 11:34:47 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part2.class (41 of 56)
+
+Thu Sep 27 11:34:47 IST 2018 INFO
+Processing file TestCase_IOT_MediumCallStack.class (42 of 56)
+
+Thu Sep 27 11:34:47 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint$TaintedStruct.class (43 of 56)
+
+Thu Sep 27 11:34:47 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint.class (44 of 56)
+
+Thu Sep 27 11:34:48 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam$TaintedStruct.class (45 of 56)
+
+Thu Sep 27 11:34:48 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam.class (46 of 56)
+
+Thu Sep 27 11:34:48 IST 2018 INFO
+Processing file TestCase_IOT_OverlapTrace.class (47 of 56)
+
+Thu Sep 27 11:34:48 IST 2018 INFO
+Processing file TestCase_IOT_Recursion.class (48 of 56)
+
+Thu Sep 27 11:34:48 IST 2018 INFO
+Processing file TestCase_IOT_Simple_Validation.class (49 of 56)
+
+Thu Sep 27 11:34:48 IST 2018 INFO
+Processing file TestCase_IOT_Static.class (50 of 56)
+
+Thu Sep 27 11:34:48 IST 2018 INFO
+Processing file TestCase_IOT_Static_Assigns.class (51 of 56)
+
+Thu Sep 27 11:34:48 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation.class (52 of 56)
+
+Thu Sep 27 11:34:48 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation2.class (53 of 56)
+
+Thu Sep 27 11:34:48 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part1.class (54 of 56)
+
+Thu Sep 27 11:34:48 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part2.class (55 of 56)
+
+Thu Sep 27 11:34:48 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Val_Part1.class (56 of 56)
+
+Thu Sep 27 11:34:48 IST 2018 INFO
+Writing the internal artifact...
+
+Thu Sep 27 11:34:49 IST 2018 INFO
+Completed writing the internal artifact
+
+Thu Sep 27 11:34:52 IST 2018 INFO
+Static Analyzer engine return code = 0.
+
+--------------------------------------------------
+Wed Oct 17 16:09:17 IST 2018 INFO
+Issuing: prepare
+
+Wed Oct 17 16:09:21 IST 2018 INFO
+A configuration file was found: C:\Users\parimal.s\eclipse-workspace1\.metadata\.plugins\com.ibm.appscan.eclipse.plugin\.scans\simpleIOT_18-10-17_16-08-22\appscan-config.xml
+
+Wed Oct 17 16:09:21 IST 2018 INFO
+Processing configuration file...
+
+Wed Oct 17 16:09:21 IST 2018 INFO
+Scan created.
+
+Wed Oct 17 16:09:21 IST 2018 INFO
+Preparing the IRX file from Eclipse using SAClientUtil version 6.0.1255 on Windows 10
+
+Wed Oct 17 16:09:21 IST 2018 INFO
+Discovering targets...
+
+Wed Oct 17 16:09:22 IST 2018 WARNING
+NOTE:  The directory C:\Users\parimal.s\Downloads\SimpleIoT_Eclipse\simpleIOT\bin\SimpleIOT_staging was identified as an IntelliJ project, but no intellij.properties file was found.  To generate an IRX file for an IntelliJ project, install the IntelliJ plugin into your IDE and create <install>/config/intellij.properties with the following contents: 
+intellij=<path to IntelliJ executable> 
+The project directory was treated as a directory of lose files.
+
+
+Wed Oct 17 16:09:22 IST 2018 INFO
+Target added: bin
+
+Wed Oct 17 16:09:22 IST 2018 INFO
+Scan saved.
+
+Wed Oct 17 16:09:22 IST 2018 INFO
+Validating...
+
+Wed Oct 17 16:09:23 IST 2018 INFO
+No problems found during validation.
+
+Wed Oct 17 16:09:23 IST 2018 INFO
+Generating IRX file...
+
+Wed Oct 17 16:09:23 IST 2018 INFO
+Processing target bin (1 of 1)
+
+Wed Oct 17 16:09:23 IST 2018 INFO
+Performing Framework Analysis for setting 'frameworksCLI'...
+
+Wed Oct 17 16:09:28 IST 2018 INFO
+Completed Framework Analysis
+
+Wed Oct 17 16:09:28 IST 2018 INFO
+Processing file TestCase_IOT_Array.class (1 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_Branching.class (2 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_Instance.class (3 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Assigns.class (4 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Confidence.class (5 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Encode.class (6 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_List.class (7 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_Looping.class (8 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_Lost_Instance.class (9 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint$TaintedStruct.class (10 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint.class (11 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part1.class (12 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part2.class (13 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_MediumCallStack.class (14 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint$TaintedStruct.class (15 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint.class (16 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam$TaintedStruct.class (17 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam.class (18 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_OverlapTrace.class (19 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_Recursion.class (20 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_Simple_Validation.class (21 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_Static.class (22 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_Static_Assigns.class (23 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation.class (24 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation2.class (25 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part1.class (26 of 56)
+
+Wed Oct 17 16:09:29 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part2.class (27 of 56)
+
+Wed Oct 17 16:09:30 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Val_Part1.class (28 of 56)
+
+Wed Oct 17 16:09:30 IST 2018 INFO
+Processing file TestCase_IOT_Array.class (29 of 56)
+
+Wed Oct 17 16:09:30 IST 2018 INFO
+Processing file TestCase_IOT_Branching.class (30 of 56)
+
+Wed Oct 17 16:09:30 IST 2018 INFO
+Processing file TestCase_IOT_Instance.class (31 of 56)
+
+Wed Oct 17 16:09:30 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Assigns.class (32 of 56)
+
+Wed Oct 17 16:09:30 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Confidence.class (33 of 56)
+
+Wed Oct 17 16:09:31 IST 2018 INFO
+Processing file TestCase_IOT_Instance_Val_Encode.class (34 of 56)
+
+Wed Oct 17 16:09:31 IST 2018 INFO
+Processing file TestCase_IOT_List.class (35 of 56)
+
+Wed Oct 17 16:09:31 IST 2018 INFO
+Processing file TestCase_IOT_Looping.class (36 of 56)
+
+Wed Oct 17 16:09:31 IST 2018 INFO
+Processing file TestCase_IOT_Lost_Instance.class (37 of 56)
+
+Wed Oct 17 16:09:31 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint$TaintedStruct.class (38 of 56)
+
+Wed Oct 17 16:09:31 IST 2018 INFO
+Processing file TestCase_IOT_Lost_MemberTaint.class (39 of 56)
+
+Wed Oct 17 16:09:32 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part1.class (40 of 56)
+
+Wed Oct 17 16:09:32 IST 2018 INFO
+Processing file TestCase_IOT_Lost_XFile_Part2.class (41 of 56)
+
+Wed Oct 17 16:09:32 IST 2018 INFO
+Processing file TestCase_IOT_MediumCallStack.class (42 of 56)
+
+Wed Oct 17 16:09:32 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint$TaintedStruct.class (43 of 56)
+
+Wed Oct 17 16:09:32 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint.class (44 of 56)
+
+Wed Oct 17 16:09:32 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam$TaintedStruct.class (45 of 56)
+
+Wed Oct 17 16:09:33 IST 2018 INFO
+Processing file TestCase_IOT_MemberTaint_OutParam.class (46 of 56)
+
+Wed Oct 17 16:09:33 IST 2018 INFO
+Processing file TestCase_IOT_OverlapTrace.class (47 of 56)
+
+Wed Oct 17 16:09:33 IST 2018 INFO
+Processing file TestCase_IOT_Recursion.class (48 of 56)
+
+Wed Oct 17 16:09:33 IST 2018 INFO
+Processing file TestCase_IOT_Simple_Validation.class (49 of 56)
+
+Wed Oct 17 16:09:33 IST 2018 INFO
+Processing file TestCase_IOT_Static.class (50 of 56)
+
+Wed Oct 17 16:09:33 IST 2018 INFO
+Processing file TestCase_IOT_Static_Assigns.class (51 of 56)
+
+Wed Oct 17 16:09:33 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation.class (52 of 56)
+
+Wed Oct 17 16:09:33 IST 2018 INFO
+Processing file TestCase_IOT_UserValidation2.class (53 of 56)
+
+Wed Oct 17 16:09:34 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part1.class (54 of 56)
+
+Wed Oct 17 16:09:34 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Part2.class (55 of 56)
+
+Wed Oct 17 16:09:34 IST 2018 INFO
+Processing file TestCase_IOT_XFile_Val_Part1.class (56 of 56)
+
+Wed Oct 17 16:09:34 IST 2018 INFO
+Writing the internal artifact...
+
+Wed Oct 17 16:09:35 IST 2018 INFO
+Completed writing the internal artifact
+
+Wed Oct 17 16:09:44 IST 2018 INFO
+Static Analyzer engine return code = 0.
+
